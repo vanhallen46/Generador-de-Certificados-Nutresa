@@ -1,0 +1,23 @@
+.project-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #5bf5c9;
+}
+
+.uploader-container {
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.uploader-container .amplify-selectfield {
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+/* .uploader-container .amplify-textfield {
+}
+ */

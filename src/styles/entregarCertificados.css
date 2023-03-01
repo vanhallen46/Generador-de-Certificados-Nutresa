@@ -1,0 +1,18 @@
+.project-container {
+  background-color: #5bf5c9;
+  margin-top: 50px;
+  height: 100vh;
+}
+
+.uploader-container {
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.uploader-container .amplify-textfield {
+  margin-bottom: 15px;
+}
+
+.uploader-container .amplify-button {
+  margin-top: 10px;
+}
